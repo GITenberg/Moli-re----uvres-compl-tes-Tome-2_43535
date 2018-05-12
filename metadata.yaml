@@ -1,0 +1,46 @@
+_repo: Moli-re----uvres-compl-tes-Tome-2_43535
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43535-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Moliere
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin de Molière, Jean Baptiste
+    - Poquelin, Jean-Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+  editor:
+    agent_name: Chasles, Philarète
+    alias: Chasles, Philarete
+    birthdate: 1798
+    deathdate: 1873
+    gutenberg_agent_id: '40214'
+    url: http://www.gutenberg.org/2009/agents/40214
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2013-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43535'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 17th century'
+- !lcc 'PQ'
+tableOfContents: "DEUXIÈME ÉPOQUE (1659-1664)\r\n(Suite)\r\n-- L'École des Maris,\
+  \ comédie\r\n-- Les Fâcheux, comédie-ballet\r\n-- L'École des Femmes, comédie\r\n\
+  -- La Critique de l'École des Femmes, comédie\r\n-- L'impromptu de Versailles, comédie\r\
+  \n-- Le Mariage forcé, comédie-ballet\r\n-- La Princesse d'Élide, comédie-ballet"
+title: Molière - Œuvres complètes, Tome 2
+url: http://www.gutenberg.org/ebooks/43535
